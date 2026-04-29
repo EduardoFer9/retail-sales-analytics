@@ -141,5 +141,6 @@ psql -U postgres -f sql/01_create_table.sql
 
 ## 📬 Contacto
 
-- **Portfolio:** [Explora mis proyectos en Notion](AQUÍ_PEGAS_EL_LINK)
-- **LinkedIn:** linkedin.com/in/tu-perfil: linkedin.com/in/oscareduardofernandez
+- **Portfolio:** [Explora mis proyectos en Notion](https://sparkly-hedge-66c.notion.site/Portfolio-Data-Analyst-Oscar-Eduardo-Fern-%C3%A1ndez-35196d52afb6817fba8eeaf7ecb888c0)
+- **LinkedIn:** [linkedin.com/in/oscareduardofernandez](https://www.linkedin.com/in/oscareduardofernandez/)
+- **Email:** [oscacito009@gmail.com](mailto:oscacito009@gmail.com)
